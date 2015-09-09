@@ -1,0 +1,19 @@
+{
+  "name": "telescopic-blog-author-api",
+  "version": "0.0.0",
+  "description": "blog author api backend",
+  "main": "server.js",
+  "repository": "concept-not-found/telescopic-blog-author-api",
+  "keywords": [
+    "blog",
+    "api"
+  ],
+  "author": "Ronald Chen",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "piledb": "concept-not-found/piledb#0.0.1",
+    "redis": "^1.0.0"
+  }
+}
